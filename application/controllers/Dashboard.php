@@ -24,7 +24,7 @@ class Dashboard extends CI_Controller
     }
     public function addusersite()
     {
-        $this->load->view('admin/sites/addsite');
+        $this->load->view('admin/sites/addsite')
     }
 
 
