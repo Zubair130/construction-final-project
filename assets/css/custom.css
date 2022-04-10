@@ -1,0 +1,40 @@
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3VzdG9tLmNzcyIsInNvdXJjZXMiOlsiY3VzdG9tLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiJ9 */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-theme {
+    background-color: #6777ef;
+}
+
+.banner {
+    height: 3vh;
+}
+
+.head {
+    height: auto;
+}
+
+.Telephone {
+    font-size: 30px;
+}
+
+.banner2 {
+    height: auto;
+    font-size: 14px;
+}
+
+.buttonlabel {
+    border-radius: 10px;
+    text-align: center;
+}
+
+.buttonsearch {
+    margin-top: 25px;
+}
+
+
+/*# sourceMappingURL=custom.css.map */
